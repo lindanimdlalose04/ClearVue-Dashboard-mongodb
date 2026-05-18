@@ -1,5 +1,5 @@
-A comprehensive data analytics platform for a compnay called clearvue, done to see real-time data processing, 
-REST API, and interactive dashboards. The data goes through an ETL pipeline, stores it in MongoDB, and provides real-time access via a REST API with Power BI visualization.
+A data analytics etl pipeline and api based project, that developed a data anlytics platform for a compnay called clearvue, done to see real-time data processing.
+I used REST API, and interactive dashboards and the data goes through an ETL pipeline(where i clean, the broken data), before it goes in MongoDB, where it will have real-time access via a REST API with Power BI.
 
 Technologies Used
 
